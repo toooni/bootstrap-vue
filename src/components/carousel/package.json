@@ -114,11 +114,11 @@
           },
           {
             "prop": "imgWidth",
-            "description": "Set the default image 'width' attribute for all b-tab children"
+            "description": "Set the default image 'width' attribute for all b-carousel children"
           },
           {
             "prop": "imgHeight",
-            "description": "Set the default image 'height' attribute for all b-tab children"
+            "description": "Set the default image 'height' attribute for all b-carousel children"
           },
           {
             "prop": "imgBlank",
